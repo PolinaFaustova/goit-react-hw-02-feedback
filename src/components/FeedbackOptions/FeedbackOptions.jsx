@@ -1,13 +1,14 @@
 import PropTypes from 'prop-types';
+import {ButtonWrapper, Button} from './Feedback.styled';
 
 export const FeedbackOptions = ({options, onFeedback}) => {
     
     const stateData = Object.keys(options);
 
     return(
-        <>
-        {stateData.map(option => (<button type='button' key={option} name={option} onClick={()=> onFeedback(option)}>{option}</button>))} 
-        </>
+        <ButtonWrapper>
+        {stateData.map(option => (<Button type='button' key={option} name={option} onClick={()=> onFeedback(option)}>{option}</Button>))} 
+        </ButtonWrapper>
         )
 };
     FeedbackOptions.propTypes = {
