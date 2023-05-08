@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/training-react/static/css/main.7acaea2f.css",
-    "main.js": "/training-react/static/js/main.747bc5ac.js",
+    "main.css": "/training-react/static/css/main.34007376.css",
+    "main.js": "/training-react/static/js/main.874fda59.js",
+    "static/media/mike-kenneally-TD4DBagg2wE-unsplash.jpg": "/training-react/static/media/mike-kenneally-TD4DBagg2wE-unsplash.149066c6970e8f7387b2.jpg",
     "index.html": "/training-react/index.html",
-    "main.7acaea2f.css.map": "/training-react/static/css/main.7acaea2f.css.map",
-    "main.747bc5ac.js.map": "/training-react/static/js/main.747bc5ac.js.map"
+    "main.34007376.css.map": "/training-react/static/css/main.34007376.css.map",
+    "main.874fda59.js.map": "/training-react/static/js/main.874fda59.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.747bc5ac.js"
+    "static/css/main.34007376.css",
+    "static/js/main.874fda59.js"
   ]
 }
